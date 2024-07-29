@@ -1,6 +1,14 @@
 ### Hi there 👋
 
 I use arch btw.
+
+#### Can do little bit in:
+- C/C++
+- Rust
+- python
+- go
+- lua
+- sh
 <!--
 **commrade-goad/commrade-goad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
