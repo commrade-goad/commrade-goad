@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-~~I use arch btw.~~
-Now on Fedora.
+I use arch btw.
 
 #### Can do little bit in:
 - C/C++
