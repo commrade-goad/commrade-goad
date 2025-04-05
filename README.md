@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-~I use arch btw.~
-
-now i am NixOS part timer.
+I use NixOS btw.
 
 #### Can do little bit in:
 - C/C++
