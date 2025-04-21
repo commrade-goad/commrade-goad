@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I use NixOS btw.
+I use Void btw.
 
 #### Can do little bit in:
 - C/C++
