@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I use Void btw.
+I use Arch btw.
 
 #### Can do little bit in:
 - C/C++
