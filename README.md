@@ -1,6 +1,6 @@
-### Hi there 👋
-
-I use Arch btw.
+<center>
+    <img src="./arch.png">
+</center>
 
 #### Can do little bit in:
 - C/C++
