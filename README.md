@@ -1,3 +1,5 @@
+# Psst...
+
 <p align="center">
     <img src="./arch.png">
 </p>
@@ -6,5 +8,5 @@
 - C/C++
 - Rust
 
-#### Github says my Top Languages are :
+#### Github says my top languages are :
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=commrade-goad&layout=compact&theme=radical)
