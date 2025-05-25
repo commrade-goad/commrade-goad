@@ -1,6 +1,6 @@
-<center>
+<p align="center">
     <img src="./arch.png">
-</center>
+</p>
 
 #### Can do little bit in:
 - C/C++
