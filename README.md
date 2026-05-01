@@ -1,5 +1,5 @@
 ```
-OS: Gentoo
+OS: Void
 WM: dwm + xlibre
-ED: Emacs(main), nvim
+ED: Emacs(main)
 ```
