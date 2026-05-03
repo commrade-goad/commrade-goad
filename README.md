@@ -1,5 +1,5 @@
 ```
 OS: NixOS
-WM: dwm + xlibre
+WM: sway
 ED: Emacs(main), nvim
 ```
