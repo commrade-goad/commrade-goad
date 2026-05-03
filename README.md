@@ -1,5 +1,5 @@
 ```
-OS: Void
+OS: NixOS
 WM: dwm + xlibre
-ED: Emacs(main)
+ED: Emacs(main), nvim
 ```
