@@ -1,5 +1,5 @@
 ```
 OS: Gentoo
-WM: dwm(XLibre)
-ED: Emacs(main)
+WM: rewm
+ED: Emacs
 ```
