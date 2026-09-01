@@ -1,5 +1,5 @@
 ```
-OS: Gentoo
-WM: rewm
+OS: Devuan
+WM: xfce
 ED: Emacs
 ```
